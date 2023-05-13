@@ -7,3 +7,5 @@
 
 * Al calcular el CUBO los tres lados son iguales en medida, se representa con el valor de "a".  calcular el volumen de un cubo = a × a × a = a³ 
 * ![image](https://github.com/KarolAlecio/Core-Code/assets/132408516/9c5fc1a1-5164-44c3-a4e2-200cf46a3de9)
+
+*Fin.
