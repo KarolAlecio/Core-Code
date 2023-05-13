@@ -5,4 +5,4 @@
 * ponerle los peperoni, cuantes desees. agregarle piña a tu eleccion.
 * ponerlo en el horno a 225F por 20 mnts 
 * revisar si esta lista, servirla.
-* fin 
+* fin.
