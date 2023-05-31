@@ -1,32 +1,5 @@
-Realizaremos una Calculadora Basica con Condicionales SEGUN Y IF 
-Algoritmo SegunEjer 
-	
-	Escribir "Ingrese Numero 1"
-	leer n1
-	Escribir "Ingrese Numero 2"
-	leer n2
-	Escribir " Ingrese una operacion: (+, -,*, /)"
-	Leer operacion 
-	
-	Segun operacion Hacer
-		"+" :
-			Escribir  n1 + n2 
-			
-		"-" :
-			Escribir n1 - n2
-			
-		"*" :
-			Escribir n1 * n2
-			
-		"/":
-			Escribir n1/ n2 
-			
-		De Otro Modo:
-			Escribir "Operacion No Valida"
-	Fin Segun
-	
-	
-FinAlgoritmo
+Realizaremos una Calculadora Basica con Condicionales  IF 
+
 
 Algoritmo CalculadoraSimple
 	Escribir "Ingresa Numero"
