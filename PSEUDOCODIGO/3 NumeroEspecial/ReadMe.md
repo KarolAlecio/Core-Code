@@ -5,6 +5,7 @@ Algoritmo NumeroEspecial
 	
 	si n == 100 Entonces
 		Imprimir "Este numero es especial"
+	SiNo
 		si n < 1000 & n % 10 == 0 Entonces
 			Imprimir "Este numero es algo especial"
 		sino 
