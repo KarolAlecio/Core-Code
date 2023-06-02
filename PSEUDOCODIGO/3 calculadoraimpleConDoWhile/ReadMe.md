@@ -2,7 +2,7 @@ Algoritmo calculadoraimpleConDoWhile
 	Imprimir 'Ingrese primer numero'
 	Leer n1
 	Imprimir 'Ingrese segundo numero'
-	Leer n2
+	Leer n2 
 	Imprimir 'Ingrese una operación: +,-,*,/'
 	Leer op
 	
