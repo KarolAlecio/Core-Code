@@ -1,6 +1,6 @@
 **Para este desafío vamos a imprimir números en orden ascendente o descendente. El usuario debe ingresar un número, y luego debe ingresar si desea imprimir los números en orden ascendente o descendente. Si el usuario elige el orden ascendente, los números se imprimirán desde el número hasta el número ingresado; de lo contrario, los números se imprimirán en orden descendente desde el número ingresado hasta el número . Para resolver este desafío, recuerda utilizar el bucle For(Para)**
 
-´´´ psc
+
 Algoritmo numerosAscendentesYDescendentes
 	Imprimir "ingrese el numero"
 	leer numeroSeleccionado
@@ -22,4 +22,4 @@ Algoritmo numerosAscendentesYDescendentes
 FinSegun
 Imprimir "Numero ingresado incorrecto" 
 FinAlgoritmo
-´´´
+
