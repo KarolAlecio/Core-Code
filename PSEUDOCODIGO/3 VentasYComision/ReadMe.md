@@ -1,27 +1,25 @@
+**Realizaremos un programa en donde se puede ingresar la cantidad de ventas realizadas, y de igual forma en donde se le paga con forme a la comision correspondiente.**
 Algoritmo ComicionPorVentas
+	
 	Imprimir "=======COMISION========"
-
+	
 	Imprimir "Ingrese la cantidad de ventas: "
 	leer cantidad_de_ventas
-	totalventas = 0
+	definir totalventas Como Entero
 	
-	Para ventas = 1  Hasta cantidad_de_ventas Con Paso 1 Hacer
-		Imprimir "Escribe el valor de la venta " , ventas
+	Para totalventas <-1  Hasta cantidad_de_ventas Con Paso 1 Hacer
+		Imprimir "Escribe el valor de la venta: " , totalventas
 		leer costo
-	// veridicar por que no me suma
-		totalventas = totalventas + costo
+		suma= suma + costo 
+		// ver porque no suma
 	FinPara
-	
-	porcentage = costo / cantidad_de_ventas
-	porcentage = costo % cantidad_de_ventas
-	
-	
-	si cantidad_de_ventas <= 5  Entonces
-		Imprimir  " la cantida de comision seria del: " 0.10
+	si cantidad_de_ventas <= 5 Entonces
+		Imprimir "La cantidad de comision es: "  0.10
+		Imprimir costo % 0.10
 	SiNo
-		si cantidad_de_ventas >= 6 Entonces
-			Imprimir "la cantidad de comision seria del: " 0.15
-		FinSi
+		Imprimir "La cantidad de comision es: " 0.15
+		Imprimir  costo % 0.15
 		
 	FinSi
-FinAlgoritmo
+finAlgoritmo
+´´´ 
