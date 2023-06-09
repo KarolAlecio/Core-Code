@@ -4,7 +4,7 @@ Algoritmo confirmar
 	
 	si num  < 1 o num >50 Entonces
 		Imprimir "numeracion invalida"
-	FinSi
+	FinSi 
 	
 	Mientras num  < 1 o num >50 Hacer
 		par= num % 2 = 0 
