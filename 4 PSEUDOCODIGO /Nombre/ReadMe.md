@@ -15,7 +15,7 @@ Algoritmo Nombre_Example
 	
 	nombreCompleto= Mayusculas( nombre1 ) + Minusculas( nombre2 )
 	apellidoCompleto=Mayusculas( apellido1) + Minusculas( apellido2 )
-	Imprimir nombreCompleto + apellidoCompleto
+	Imprimir nombreCompleto, " " ,apellidoCompleto
 	
 	
 	
