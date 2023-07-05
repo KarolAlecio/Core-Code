@@ -1,10 +1,13 @@
-// PREGUNTAR COMO SE HACE
+
 
 Function  resultado <- ReverseDirectionAndSize(string)
 	var resultado 
 	resultado = "";
-	for contador<- Longitud(string) Hasta 0 Con Paso -1 Hacer
-		letter = Subcadena(string,count,count);
+ // en resultado se pone, vacio ya que con eso iniciaremos con la  funcion
+	para contador<- Longitud(string) Hasta 0 Con Paso -1 Hacer
+ // se pone el -1, ya que empezaria de atras para delante
+		letter = Subcadena(string,contador, contador);
+  // lleva doble, contador ya que con eso se iniciaria de atras para delante.
 		si letter = Mayusculas(letter) Entonces
 			letter = Minusculas(letter)
 		sino 
